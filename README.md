@@ -2,7 +2,7 @@
 
 Repository containing the data for the game Honkai: Star Rail.
 
-Mission info 2.3 is inclulded , credit @WatchAndyTW
+Mission info 2.3 is inclulded , credit [WatchAndyTW](https://github.com/WatchAndyTW)
 
 # How do I find the missing text map entries?
 
