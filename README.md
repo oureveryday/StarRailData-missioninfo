@@ -1,5 +1,7 @@
 # StarRailData-Missioninfo
 
+* Project Archived, please use [DanhengServer-Resource](https://github.com/EggLinks/DanhengServer-Resources) instead.
+
 Repository containing the data for the game Honkai: Star Rail.
 
 Mission info 2.3 is inclulded , credit [WatchAndyTW](https://github.com/WatchAndyTW)
